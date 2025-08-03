@@ -1254,7 +1254,7 @@ function PlayPageClient() {
         lang: 'zh-cn',
         hotkey: false,
         fastForward: true,
-        autoOrientation: false,
+        autoOrientation: true,
         lock: true,
         moreVideoAttr: {
           crossOrigin: 'anonymous',
